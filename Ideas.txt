@@ -1,0 +1,29 @@
+1. Education and Learning
+
+* AI tutor that explains concepts in different ways.
+* Gamified revision platform for friends.
+* Offline learning app for low-internet areas.
+
+2. Digital Well-being and Productivity
+
+* “Focus bubble” app to block distractions.
+* Digital detox tracker with rewards.
+* AI time tracker that categorizes screen use.
+
+3. Sustainability and Environment
+
+* Waste-sorting app using camera recognition.
+* “Green habit tracker” for CO₂ savings.
+* Eco-volunteering platform for cleanups/tree planting.
+
+4. Community and Safety
+
+* SOS app with live-location alerts.
+* Civic issue reporting app with auto-location tagging.
+* Local news verification tool.
+
+5. Health and Lifestyle
+
+* AI chatbot for mood and mental health check-ins.
+* Smart nutrition planner using local diets.
+* Health vital tracker with checkup reminders.
