@@ -1,0 +1,20 @@
+{
+  "name": "st-joseph's-competition",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamlesh-Rathan/Competition.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kamlesh-Rathan/Competition/issues"
+  },
+  "homepage": "https://github.com/Kamlesh-Rathan/Competition#readme"
+}
